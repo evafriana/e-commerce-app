@@ -3,7 +3,7 @@ import styled from "styled-components";
 import Announcement from "../components/Announcement";
 import Footer from "../components/Footer";
 import Navbar from "../components/Navbar";
-import NewsLatter from "../components/NewsLatter";
+import NewsLatter from "../components/Newsletter";
 
 const Container = styled.div``;
 const Wrapper = styled.div`
